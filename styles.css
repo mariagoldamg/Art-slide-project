@@ -1,0 +1,16 @@
+#pictures {
+    width: 500px;
+}
+#container {
+    display: flex;
+    justify-content: center;
+}
+.btn {
+    background-color: #FA7070;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+
+}
+body {
+    background-color: #A1C298;
+}
